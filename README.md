@@ -1,2 +1,3 @@
 # HR-Analytics-Dashboard
 Designed and developed an interactive dashboard to analyze workforce data, providing insights into total employees, attrition rate, average tenure, and diversity. Conducted attrition and retention analysis by department, age, and tenure to identify key trends affecting employee stability. Visualized geographical and departmental distribution of employees to evaluate workforce placement and support strategic HR decisions.
+![image alt](https://github.com/ishanshchauhan2728-ui/HR-Analytics-Dashboard/blob/3c9639ed226876a0d871f4a63b96d62ed257704d/HR%20Analytics%20Project/HR%20Dashboard.PNG)
